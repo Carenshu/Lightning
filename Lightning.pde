@@ -13,9 +13,19 @@ void setup()
 
 void draw()
 {
+	int random =(int) (Math.random ()*2);
+
+	if (random==0)
+	{
+		stroke(253, 208, 35 );
+	} 
+	else  
+	{
+		stroke(125, 249, 255);
+	}
 	
-	stroke(253, 208, 35 );
 	
+	println(random);
 	
 	
 
