@@ -25,7 +25,7 @@ void draw()
 	}
 	
 	
-	println(random);
+
 	
 	
 
