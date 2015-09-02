@@ -24,12 +24,8 @@ void draw()
 		stroke(125, 249, 255);
 	}
 	
-	
 
-	
-	
-
-		while (endX<300){
+		while (endY<300){
 		endX= startX +(int) (Math.random ()*10);
 		endY= startY +(int) (Math.random ()*10);
 		line (startX,startY,endX,endY);
