@@ -38,9 +38,9 @@ void draw()
 void mousePressed()
 {
 	 startX=(int) (Math.random ()*100);
-	 startY=0;
+	 startY=(int) (Math.random ()*130);
 	 endX=(int) (Math.random ()*100);
-	 endY=0;
+	 endY=(int) (Math.random ()*130);
 
 }
 
