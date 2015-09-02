@@ -1,5 +1,5 @@
-int startX=0;
-int startY=150;
+int startX=150;
+int startY=0;
 int endX=0;
 int endY=150;
 
