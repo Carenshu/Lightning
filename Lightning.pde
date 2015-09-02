@@ -25,7 +25,7 @@ void draw()
 	}
 	
 
-		while (endY<300){
+		while (endX<300){
 		endX= startX +(int) (Math.random ()*10);
 		endY= startY +(int) (Math.random ()*10);
 		line (startX,startY,endX,endY);
