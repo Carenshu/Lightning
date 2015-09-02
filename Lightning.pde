@@ -43,7 +43,7 @@ void mousePressed()
 {
 	 startX=(int) (Math.random ()*100);
 	 startY=0;
-	 endX=(int) (Math.random ()*100);
+	 endX=150;
 	 endY=0;
 
 }
