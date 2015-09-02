@@ -9,6 +9,7 @@ void setup()
   size(300,300);
   background(128,128,128);
   strokeWeight(2);
+  frameRate(4);
 }
 
 void draw()
