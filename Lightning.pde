@@ -17,10 +17,12 @@ void draw()
 
 	if (random==0)
 	{
+		background(96,72,96);
 		stroke(253, 208, 35 );
 	} 
 	else  
 	{
+		background(128,128,128);
 		stroke(125, 249, 255);
 	}
 	
